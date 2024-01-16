@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-A weather app. We will be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+Creating a fresh Flutter project for a weather app that provides real-time weather information for both the device's current location and any desired city.
